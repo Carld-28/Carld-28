@@ -6,7 +6,7 @@ PIm Carmelo Dave A. PAdre Jr.*
 
 **ABOUT ME**
 
-*Im Currenly Learning php framework(LAravel)*
+*Im Currenly Learning php framework(LAravel) and SQL*
 
 *Im currently Suffering From Learning Php Framework(laravel)*
 
