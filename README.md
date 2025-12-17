@@ -1,10 +1,10 @@
-##**INTRODUCTION**##
+# **INTRODUCTION**
 
 *Im Carmelo Dave A. PAdre Jr.*
 
 *Im an IT student And Aspiring Backend Developer*
 
-##**ABOUT ME**##
+# **ABOUT ME**
 
 *Im Currenly Learning php framework(Laravel) and SQL*
 
@@ -12,15 +12,15 @@
 
 *Goal is to Survive ~~without Suffering~~*
 
-##**SKILLS**##
+# **SKILLS**
 
-**PROGRAMMING LANGUAGES:*
+## **PROGRAMMING LANGUAGES:*
 *- PHP, CSS HTML, SQL, and JAVASCRIPT*
 
-**Tools or technologies:*
+## **Tools or technologies:*
 *- VSCODE, XAMPP, and W3.CSS*
 
-##**CONTACTS**##
+# **CONTACTS**
 
 - Email: [Greed040228@gmail.com](mailto:Greed040228@gmail.com)
 - [Facebook](https://www.facebook.com/dave.alonzopadre)
