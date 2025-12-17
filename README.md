@@ -14,10 +14,10 @@
 
 # **SKILLS**
 
-## **PROGRAMMING LANGUAGES:*
+## *PROGRAMMING LANGUAGES:*
 - PHP, CSS HTML, SQL, and JAVASCRIPT*
 
-## **Tools or technologies:*
+## *Tools or technologies:*
 - *VSCODE, XAMPP, and W3.CSS*
 
 # **CONTACTS**
