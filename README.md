@@ -1,16 +1,33 @@
-## Hi there 👋
+**INTRODUCTION**
 
-<!--
-**Carld-28/Carld-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PIm Carmelo Dave A. PAdre Jr.*
 
-Here are some ideas to get you started:
+*Im an IT student And Aspiring Backend Developer*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**ABOUT ME**
+
+*Im Currenly Learning php framework(LAravel)*
+
+*Im currently Suffering From Learning Php Framework(laravel)*
+
+*Goal is to Survive ~~without Suffering~~*
+
+**SKILLS**
+
+**PROGRAMMING LANGUAGES:*
+*PHP, CSS HTML, SQL, and JAVASCRIPT*
+
+**Tools or technologies:*
+*VSCODE, XAMPP, and W3.CSS*
+
+**CONTACTS**
+
+- Email: [Greed040228@gmail.com](mailto:Greed040228@gmail.com)
+- [Facebook](https://www.facebook.com/dave.alonzopadre)
+- GitHub: https://github.com/Carld-28
+
+
+
+
+
+
