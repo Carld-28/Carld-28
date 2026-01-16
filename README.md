@@ -39,4 +39,3 @@ I enjoy building web applications and continuously improving my programming skil
 
 - 📧 Email: [Greed040228@gmail.com](mailto:Greed040228@gmail.com)
 - 📘 Facebook: [facebook.com/dave.alonzopadre](https://www.facebook.com/dave.alonzopadre)
-- 🐙 GitHub: [github.com/Carld-28](https://github.com/Carld-28)
